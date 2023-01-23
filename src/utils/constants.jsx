@@ -12,6 +12,7 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 import AppleIcon from '@mui/icons-material/Apple';
+import RocketLaunchIcon from '@mui/icons-material/RocketLaunch';
 
 export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
@@ -35,6 +36,8 @@ export const categories = [
   { name: 'Gym', icon: <FitnessCenterIcon />, },
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
   { name: 'Marina Monteiro', icon: <AppleIcon />, },
+  { name: 'Rocketseat', icon: <RocketLaunchIcon />, },
+
 ];
 
 export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
